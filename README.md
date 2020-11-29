@@ -9,10 +9,10 @@ This repo contains 5 different kind of files spread across various directories
  - code_testing_cnnx.ipynb: Jupyter Notebook containing the code used for the project
  - dataset_predicting: directory to hold test or validation images. This directory is divided into 2 subdirectories
     - one: This directory will hold all the validation images having one root
-    - multi: This directory will hold all the the validation images having more than one root
+    - multiple: This directory will hold all the the validation images having more than one root
 -  dataset_training: This directory holds all the the images used for training the model. This directory is divided into 2 subdirectories
     - one: This directory holds all the images having one root
-    - multi: This directory holds all the the validation images having more than one root
+    - multiple: This directory holds all the the validation images having more than one root
 - model_config: This directory holds all the saved models from all the code excutions
 - model_parameters: This directory contains the checkpoints from all the code executions
 - model_log: This directory contains .csv files containg the loss, accuracy, validation loss and validation accuracy data for all the models.

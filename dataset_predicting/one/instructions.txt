@@ -1,0 +1,1 @@
+Validation images with single root are to be stored in this folder
