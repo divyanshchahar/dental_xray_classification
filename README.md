@@ -21,7 +21,5 @@ This repo contains 5 different kind of files spread across various directories
 The code was run on google collab to reduce run time. All the callbacks, model checkpoints and saved models were originally generated in google drive and are transferred here.
 
 ---
-All the jupyter notebboks except code_testing_cnn5.ipynb contains the output as well as the code. Due to a slight error this notebook was overwritten. The code, modelecheckpoints, logs and savedmodels associated with this notebook are the same as generated during execution. There might be slight changes however at a later point of time as the notebook will be run again and associated data will be updated soon.
 
----
 Due to github's limitation against uploading large files, model checkpoints are not uploaded rather a link is provided in notepad which will take you directly to the google drive folder containing these files
